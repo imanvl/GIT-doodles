@@ -1,3 +1,11 @@
+My Resume
+
+This is based on the Deedy-Resume-Reversed that is explained below. All the details are in the .tex file (see **todo** tags as well).
+
+Last time I saved it as PNG it looked like this:
+
+![alt tag](https://github.com/imanvl/GIT-doodles/edit/Testing-new-branch/cv/cv20191005.png)
+
 Deedy-Resume-Reversed
 =========================
 
