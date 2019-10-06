@@ -4,7 +4,7 @@ This is based on the Deedy-Resume-Reversed that is explained below. All the deta
 
 Last time I saved it as PNG it looked like this:
 
-![alt tag](https://github.com/imanvl/GIT-doodles/edit/Testing-new-branch/cv/cv20191004.png)
+![alt tag](https://github.com/imanvl/GIT-doodles/edit/Testing-new-branch/cv/CV20191004.png)
 
 Deedy-Resume-Reversed
 =========================
